@@ -1,0 +1,2 @@
+DHCPclient: DHCPclient.c
+	gcc -o DHCPclient DHCPclient.c
